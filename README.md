@@ -1,6 +1,6 @@
 # Personal static website
 
-- This website contains information about me(Sushanth Rao)
+- This website contains information about me(Sushanth Sathesh Rao)
 - This website was built using iPortfolio template available at https://bootstrapmade.com/
 - Website available at: https://raosush.github.io/about
 
